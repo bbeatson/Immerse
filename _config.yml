@@ -20,7 +20,7 @@
 
 title: Bridget Beatson's IMMERSE Site
 
-baseurl: "/ImmerseWebsite" # the subpath of your site, e.g. /blog
+baseurl: "/Immerse" # the subpath of your site, e.g. /blog
 url: "https://bbeatson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
